@@ -1,4 +1,4 @@
-# PitchEstimation
+# Estimating Vehicle Pitch Using Gyroscopic Smartphone Data
 Final project for Bachelor's degree thesis
 The goal of this project is to obtain the tilt of a vehicle using just the data
 provided by a smartphone. In order to achieve this I used two
