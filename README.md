@@ -8,10 +8,9 @@ angular velocity both along the x, y, z body axes. To combine both of these
 values I implemented the Kalman filter, which is the most popular technique for
 this purpose. However I went over some other techniques, which I discarded
 and will be explained in the document.
-The objective of obtaining the tilt angle is to calculate the power needed by the
-Bosch vehicle and supply it to the car.
+The objective of obtaining the tilt angle is to calculate the power needed to be supplied to the vehicle.
 
-Bosch wants an automated vehicle and one of the variables needed to
+An autonomous vehicle is wanted and one of the variables needed to
 automatically supply the power to the train is the tilt angle of the car. My part is
 to make it possible to obtain this angle with just a smartphone.
 The smartphone has some sensors which we could take advantage of, those
